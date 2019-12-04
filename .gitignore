@@ -1,0 +1,4 @@
+# Skip folders named
+__pycache__/
+.vscode/
+
